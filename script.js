@@ -36,15 +36,7 @@ const movies = [
         iframeUrl: "https://youtube.com",
         description: "Bekarlığa veda partisi için Las Vegas'a giden dört arkadaş, ertesi sabah damat kayıp olarak ve hiçbir şey hatırlamayarak uyanır."
     },
-   {
-        id: 5,
-        title: "kaşmir bakını",
-        category: "aksiyon",
-        rating: "7.7",
-        poster: "http://10.97.86.187/kashmir-baskini-2000.jpg",
-        iframeUrl: "http://127.0.0.1/Ka%C5%9Fmir%20Bask%C4%B1n%C4%B1%202000%20Filmi%201080p%20Full%20HD%20izle.mp4",
-        description: "Bekarlığa veda partisi için Las Vegas'a giden dört arkadaş, ertesi sabah damat kayıp olarak ve hiçbir şey hatırlamayarak uyanır."
-    },
+ ];
 
 
        
