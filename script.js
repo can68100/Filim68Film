@@ -24,7 +24,7 @@ const movies = [
         category: "Aksiyon, Suç",
         rating: "9.0",
         poster: "https://unsplash.com",
-        iframeUrl: "https://www.youtube.com/embed/EXeTwQWrcwY?si=A05LzYBaoMQZgB2Z",
+        iframeUrl: "<iframe width="560" height="315" src="https://www.youtube.com/embed/EXeTwQWrcwY?si=byDKAVs1iJFrhCvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
         description: "Batman, Gotham şehrini kaosa sürüklemeye çalışan gizemli ve sadist suçlu Joker ile karşı karşıya gelir."
     },
     {
