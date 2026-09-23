@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SineFilm - Ücretsiz Film İzle</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- FontAwesome ikonları için -->
+    <link rel="stylesheet" href="https://cloudflare.com">
+</head>
+<body>
+
+    <!-- Navigasyon Alanı -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo"><i class="fa-solid fa-sitem"></i>Filim68<span>Film</span></a>
+            <div class="nav-right">
+                <button id="randomBtn" class="random-btn" title="Rastgele Film Öner!"><i class="fa-solid fa-dice"></i> <span>Bana Film Öner</span></button>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Film ara...">
+                    <button id="searchBtn"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Ana Konteyner -->
+    <main class="container">
+        
+        <!-- Video Oyuncu Modalı (Iframe Buraya Gelecek) -->
+        <section id="playerSection" class="player-section hidden">
+            <div class="player-container">
+                <button id="closePlayer" class="close-btn"><i class="fa-solid fa-xmark"></i> Kapat</button>
+                <div class="iframe-wrapper">
+                    <iframe id="videoPlayer" src="" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <h2 id="playerTitle">Film Adı</h2>
+                <p id="playerDesc">Film açıklaması burada görünecek.</p>
+            </div>
+        </section>
+
+        <!-- Kategori Filtre Alanı -->
+        <div id="categoryContainer" class="category-container">
+            <!-- Kategoriler JS tarafından buraya otomatik eklenecek -->
+        </div>
+
+        <!-- Film Listesi Başlığı -->
+        <div class="section-title">
+            <h2 id="gridTitle"><i class="fa-solid fa-fire"></i> Tüm Filmler</h2>
+        </div>
+
+        <!-- Film Kartları Izgarası -->
+        <div id="movieGrid" class="movie-grid">
+            <!-- Dinamik filmler javascript ile buraya eklenecek -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 filimsitem68. Tüm Hakları Saklıdır. Bu site eğitim amaçlı açık kaynak kodlu üretilmiştir.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
