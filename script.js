@@ -45,6 +45,19 @@ const movies = [
         iframeUrl: "https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4",
         description: "Yıllardır kanayan bir yara olan Kashmir bölgesinde Müslüman polis teşkilatında çalışan Sanjay, peşine düştüğü azılı bir teröristle savaşırken kazara, gene Müslüman olan bir ailenin, Altaaf adlı bir bebek hariç, tümünün ölmesine neden olur.Kısa bir süre önce kendi bebeğini de kaybetmiş olan Sanjay, karısının ısrarları üzerine bu bebeği evlatlık edinir. Ailesini öldüren maskeli kişiyi kabuslarında gören Altaaf, o maskeli kişinin kendisini evlatlık edinen Sanjay olduğunu öğrenince, intikam yemini ederek oradan kaçar.Yıllar sonra tam bir savaş makinesi haline gelmiş acımasız bir savaşçı olarak geri dönen Altaaf, nasıl bir intikam alacağını planlamaya başlar.."
     },
+    {
+    id: 6,
+    title: "The Dark Knight (Kara Şövalye)",
+    category: "Aksiyon, Suç",
+    rating: "9.0",
+    poster: "https://unsplash.com",
+    iframeUrl: "",
+    // Sitenin içinde görünecek kısa özet:
+    description: "Batman, Gotham şehrini kaosa sürüklemeye çalışan gizemli ve sadist suçlu Joker ile karşı karşıya gelir.",
+    // Google ve arama motorları için optimize edilmiş 150-160 karakterlik yeni alan:
+    seoDescription: "The Dark Knight (Kara Şövalye) filmini kesintisiz, Türkçe dublaj ve altyazı seçenekleriyle full HD 1080p kalitesinde izlemek için hemen tıklayın!"
+}
+
     
  ];
 
