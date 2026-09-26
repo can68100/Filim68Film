@@ -14,7 +14,7 @@ const movies = [
         title: "Interstellar (Yıldızlararası)",
         category: "Bilim Kurgu, Dram",
         rating: "8.7",
-        poster: "https://unsplash.com",
+        poster: "https://img.fullhdfilmizlesene.now/poster/izle/yildizlararasi-2-91588.webp",
         iframeUrl: "https://s27.imgscdn2677.shop/m8/FJ50MKWmqTIfoTSlYwVjZGDhIHuRYxWfqKWurF5WGHSLYwRjBQOjYxEIDHjhrQV2AP1VER0d0zxnJ1ap2AxowV2Amphp2uipNs0xi27vr1b360",
         description: "Bir grup astronot, insanlığın hayatta kalmasını sağlamak için solucan deliğinden geçerek yeni bir gezegen arayışına çıkar."
     },
