@@ -5,7 +5,7 @@ const movies = [
         title: "Inception (Başlangıç)",
         category: "Bilim Kurgu, Aksiyon",
         rating: "8.8",
-        poster: "https://unsplash.com",
+        poster: "https://img.fullhdfilmizlesene.now/poster/izle/baslangic-izle-1-89750.webp",
         iframeUrl: "https://s28.cdnimg1399.shop/mm/FJ5wMKO0nJ9hYwVjZGNhExuRYxWfqIWurF54ZwL0YxEIDHjhEzyfoJWioNd0zxL2EhnJ1aZGZ5BF5mnT9js0xi28vr1b480",
         description: "Hırsız Dom Cobb, insanların rüyalarından sırları çalan bir uzmandır. Bu kez görevi bir fikri çalmak değil, yerleştirmektir."
     },
@@ -15,7 +15,7 @@ const movies = [
         category: "Bilim Kurgu, Dram",
         rating: "8.7",
         poster: "https://unsplash.com",
-        iframeUrl: "https://youtube.com",
+        iframeUrl: "https://s27.imgscdn2677.shop/m8/FJ50MKWmqTIfoTSlYwVjZGDhIHuRYxWfqKWurF5WGHSLYwRjBQOjYxEIDHjhrQV2AP1VER0d0zxnJ1ap2AxowV2Amphp2uipNs0xi27vr1b360",
         description: "Bir grup astronot, insanlığın hayatta kalmasını sağlamak için solucan deliğinden geçerek yeni bir gezegen arayışına çıkar."
     },
     {
@@ -23,8 +23,9 @@ const movies = [
         title: "The Dark Knight (Kara Şövalye)",
         category: "Aksiyon, Suç",
         rating: "9.0",
-        poster: "https://unsplash.com",
-        iframeUrl: "",
+        poster: "https://img.fullhdfilmizlesene.now/poster/izle/batman-2-kara-sovalye-izle-3-59964.webp",
+        iframeUrl: "https://s2.cdnimages6326.shop/mh/ITuyYxEupzfhF25cM2u0YwVjZQthZGN4ZUNhMUIuoNd0zxL2EhnJ1uM2ImAwZlAv5mnT9js0xi2vr1b360 "
+,
         description: "Batman, Gotham şehrini kaosa sürüklemeye çalışan gizemli ve sadist suçlu Joker ile karşı karşıya gelir."
     },
     {
@@ -32,8 +33,8 @@ const movies = [
         title: "The Hangover (Felekten Bir Gece)",
         category: "Komedi",
         rating: "7.7",
-        poster: "https://unsplash.com",
-        iframeUrl: "https://youtube.com",
+        poster: "https://img.fullhdfilmizlesene.now/poster/izle/felekten-bir-gece-full-hd-turkce-dublaj-izle870.webp",
+        iframeUrl: "https://s8.cdnimg5544.shop/mf/EzIfMJg0MJ4hDzylYxqyL2HhZF5HnTHhFTShM292MKVhZF4lZQN5YwRjBQOjYxE1LJjd0zxL2EhnJ1aAGH0AP5mnT9js0xi8vr1b360",
         description: "Bekarlığa veda partisi için Las Vegas'a giden dört arkadaş, ertesi sabah damat kayıp olarak ve hiçbir şey hatırlamayarak uyanır."
     },
         {
