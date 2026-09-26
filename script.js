@@ -62,7 +62,7 @@ const movies = [
     title: "zübük vhs izle",
     category: "Komedi",
     rating: "9.0",
-    poster: " http://www.imdb.com/title/tt0253991/ ",
+    poster: " https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1-q8U_4uprmganbYZKAvaYyp-ToHZdv1dWA2ciMItIoxGRFZywH2vc1k3Q_yQFwkh1F5h8VLCYlqlIMsK2FCTp5CWplLQ6H7Cx4OZ6QZDCrMV6ir08qd1RqIt1s8ghFaEd7ts8eHj4zIbwsmn6caheWoUAfDElwvMTtb8TNWmnbnmQqfnRlyjdNYq6Q/s1610/z%C3%BCb%C3%BCk%20poster.jpg ",
     iframeUrl: " https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4 ",
     // Sitenin içinde görünecek kısa özet:
     description: " Zübük, Aziz Nesin’in aynı adlı romanından uyarlanan ve kurnaz, çıkarcı bir politikacının yükselişini anlatan klasik bir taşlamadır. ",
