@@ -56,7 +56,20 @@ const movies = [
     description: "Batman, Gotham şehrini kaosa sürüklemeye çalışan gizemli ve sadist suçlu Joker ile karşı karşıya gelir.",
     // Google ve arama motorları için optimize edilmiş 150-160 karakterlik yeni alan:
     seoDescription: "The Dark Knight (Kara Şövalye) filmini kesintisiz, Türkçe dublaj ve altyazı seçenekleriyle full HD 1080p kalitesinde izlemek için hemen tıklayın!"
+},
+    {
+    id: 7,
+    title: "zübük vhs izle",
+    category: "",
+    rating: "9.0",
+    poster: " http://www.imdb.com/title/tt0253991/ ",
+    iframeUrl: " https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4 ",
+    // Sitenin içinde görünecek kısa özet:
+    description: " Zübük, Aziz Nesin’in aynı adlı romanından uyarlanan ve kurnaz, çıkarcı bir politikacının yükselişini anlatan klasik bir taşlamadır. ",
+    // Google ve arama motorları için optimize edilmiş 150-160 karakterlik yeni alan:
+    seoDescription: "zübük vhs izle "
 }
+
 
     
  ];
