@@ -60,7 +60,7 @@ const movies = [
     {
     id: 7,
     title: "zübük vhs izle",
-    category: "",
+    category: "Komedi",
     rating: "9.0",
     poster: " http://www.imdb.com/title/tt0253991/ ",
     iframeUrl: " https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4 ",
