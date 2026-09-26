@@ -6,7 +6,7 @@ const movies = [
         category: "Bilim Kurgu, Aksiyon",
         rating: "8.8",
         poster: "https://unsplash.com",
-        iframeUrl: "https://youtube.com",
+        iframeUrl: "https://hdfilmcehennemi.mobi/video/embed/54DBk2nDzrX/?rapidrame_id=3ucbctb9h6zt",
         description: "Hırsız Dom Cobb, insanların rüyalarından sırları çalan bir uzmandır. Bu kez görevi bir fikri çalmak değil, yerleştirmektir."
     },
     {
