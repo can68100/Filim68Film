@@ -62,7 +62,7 @@ const movies = [
     id: 7,
     title: "zübük vhs izle",
     category: "Komedi",
-    rating: "9.0",
+    rating: "8.5",
     poster: " https://filmmakinesi.to/uploads/postlar/afis/zubuk-1980.jpg-thumb-liste.webp ",
     iframeUrl: " https://dn790001.ca.archive.org/0/items/zubuk_1980/Z%C3%BCb%C3%BCk.mp4 ",
     description: " Zübük, Aziz Nesin’in aynı adlı romanından uyarlanan ve kurnaz, çıkarcı bir politikacının yükselişini anlatan klasik bir taşlamadır. ",    
