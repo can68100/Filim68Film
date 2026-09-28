@@ -73,7 +73,7 @@ const movies = [
     title: "Örümcek-Adam: Yepyeni Bir Gün Spider-Man: Brand New Day",
     category: "Bilim Kurgu",
     rating: "8.0",
-    poster: " https://filmmakinesi.to/uploads/postlar/afis/zubuk-1980.jpg-thumb-liste.webp ",
+    poster: " https://img.fullhdfilmizlesene.now/poster/izle/orumcek-adam-yepyeni-bir-gun-spider-man-brand-new-day-33975.webp ",
     iframeUrl: " https://s33.imgscdn6902.shop/mn/H3OcMTIlYH1uov5PpzShMP5BMKphETS5YwVjZwLhIwZhZGN4ZUNhIRIZEIAMGxZhrQV2AP1Rd0zxnJ1ap2AxowL5ZQVhp2uipPkwMT5coJSaMGD0BQphp2uipPkwMT5coJSaMKZ4Amp2YaAbo3NfnJ1aL2EhZGH4Zl5mnT9jYTAxozygMmZkBQRhp2uipNs0xi33vr1b360 ",
     description: " Peter Parker, artık kimsenin kendisini hatırlamadığı bir dünyada yaşamaktadır. Eski arkadaşları hayatlarına onsuz devam ederken o da bütün zamanını Örümcek Adam olarak geçirir. Bir yandan bu sorumluluğu üstlenmek, diğer yandan bir zamanlar parçası olduğu hayatların dışında kalmak Peter’ın üzerindeki baskıyı artırır. Bu baskı, onda kendi kontrolünün dışında gelişen bir değişimi tetikler. Aynı sırada, hem şehri hem de sevdiği insanları tehdit eden yeni bir düşman ortaya çıkar. Peter’ın, güçlü olmasının yanı sıra kimse tarafından görülemeyen bu düşmanı durdurması gerekir. Kendi iradesiyle kontrol edemediği bu değişim ise görünmeyen düşmanın yarattığı tehdide karşı koyabilmek için elindeki tek imkân olabilir. ",    
     seoDescription: "Örümcek-Adam: Yepyeni Bir Gün Spider-Man: Brand New Day izle "
